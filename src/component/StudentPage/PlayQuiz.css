@@ -1,0 +1,10 @@
+.questionNumber{
+    font-weight: bolder;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.questionName{
+    margin-top: 10px;
+}

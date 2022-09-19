@@ -1,0 +1,13 @@
+.google-logo{
+    width: 30px;
+    margin-right: 5px;
+}
+
+.google-container{
+    display: flex;
+    margin-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
